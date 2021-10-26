@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WebCal.Guru//NONSGML WebCal.Guru//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:FALSE
+X-WR-CALNAME:Jours fériés
+X-WR-RELCALID;VALUE=TEXT:0173860F-3E64-4481-A281-ACE9867FD93A@webcal.guru
+X-WR-CALDESC;VALUE=TEXT:Cette liste ne contient que les jours fériés réels
+ . Voir le calendrier 'Journées du bien commun' pour d'autres événements ma
+ rquants.
+X-WR-TIMEZONE;VALUE=TEXT:UTC
+X-PUBLISHED-TTL;VALUE=DURATION:P1W
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-OWNER;VALUE=TEXT:CN="WebCal.Guru":mailto:guru@webcal.guru
+X-APPLE-CALENDAR-COLOR:#ff2600
+X-OUTLOOK-COLOR:#ff2600
+X-FUNAMBOL-COLOR:#ff2600
+X-LOTUS-CHARSET:UTF-8
+BEGIN:VEVENT
+UID:B02C2CB2-2275-4194-A5D3-58296554B90E@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20211101
+DTEND;VALUE=DATE:20211102
+SUMMARY;LANGUAGE=fr-FR:Toussaint
+DESCRIPTION;LANGUAGE=fr-FR:La Toussaint est une fête catholique\, célébrée
+  le 1er novembre\, au cours de laquelle l’Église catholique honore tous le
+ s saints\, connus et inconnus.\n\nMis à jour: Mon\, 25 Oct 2021 11:30:43 +
+ 0000\n\nInformations complémentaires\nhttps://fr.wikipedia.org/wiki/Toussa
+ int
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Toussaint
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:110428EA-BF41-48B9-AF0E-092F40B58B67@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20211111
+DTEND;VALUE=DATE:20211112
+SUMMARY;LANGUAGE=fr-FR:Armistice de 1918
+DESCRIPTION;LANGUAGE=fr-FR:Le jour du Souvenir\, aussi connu comme jour de
+  l'Armistice\, est une journée de commémoration annuelle observée en Europ
+ e et dans les pays du Commonwealth pour commémorer les sacrifices de la Pr
+ emière Guerre mondiale ainsi que d'autres guerres. Cette journée a lieu le
+  11 novembre pour rappeler la signature de l'Armistice de 1918 mettant fin
+  à la Première Guerre mondiale.\n\nMis à jour: Mon\, 25 Oct 2021 11:30:43 
+ +0000\n\nInformations complémentaires\nhttps://fr.wikipedia.org/wiki/Jour_
+ du_Souvenir
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Jour_du_Souvenir
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:BBF53078-4638-440E-A639-B9A895C4A7FF@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211226
+SUMMARY;LANGUAGE=fr-FR:Noël
+DESCRIPTION;LANGUAGE=fr-FR:Noël est la fête chrétienne qui célèbre la nais
+ sance de Jésus de Nazareth au moment du solstice d'hiver. Pour un grand no
+ mbre de personnes\, Noël est une fête populaire déconnectée de son fondeme
+ nt religieux.\n\nMis à jour: Mon\, 25 Oct 2021 11:30:43 +0000\n\nInformati
+ ons complémentaires\nhttps://fr.wikipedia.org/wiki/No%C3%ABl
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/No%C3%ABl
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:A7E0FD4E-B3D4-4DFC-ACCE-DA15B2AB51D4@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20211226
+DTEND;VALUE=DATE:20211227
+SUMMARY;LANGUAGE=fr-FR:Deuxième jour de Noël
+DESCRIPTION;LANGUAGE=fr-FR:Mis à jour: Mon\, 25 Oct 2021 11:30:43 +0000
+CLASS:PUBLIC
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:547F7960-13D4-4333-AF61-AEF6BF6D9347@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220102
+SUMMARY;LANGUAGE=fr-FR:Jour du nouvel an
+DESCRIPTION;LANGUAGE=fr-FR:- Nouvel An\n\nLe jour de l'An ou Nouvel An est
+  le premier jour d'une année. Par extension\, le terme désigne aussi les c
+ élébrations de ce premier jour de l'année.\n\nMis à jour: Mon\, 25 Oct 202
+ 1 11:30:43 +0000\n\nInformations complémentaires\nhttps://fr.wikipedia.org
+ /wiki/Jour_de_l%27an
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Jour_de_l%27an
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:51F62B41-5735-4E75-AF69-193ECE911D6C@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220416
+SUMMARY;LANGUAGE=fr-FR:Vendredi saint
+DESCRIPTION;LANGUAGE=fr-FR:Le Vendredi saint est la commémoration religieu
+ se célébrée par les chrétiens le vendredi précédant le dimanche de Pâques.
+  Il marque le jour de la crucifixion et de la mort de Jésus-Christ. Il fai
+ t partie du triduum pascal\, qui s'étend du Jeudi saint aux vêpres du dima
+ nche de Pâques. Dans la tradition orthodoxe\, il est appelé « Grand vendre
+ di » ou « Saint et grand vendredi ».\n\nMis à jour: Mon\, 25 Oct 2021 11:3
+ 0:43 +0000\n\nInformations complémentaires\nhttps://fr.wikipedia.org/wiki/
+ Vendredi_saint
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Vendredi_saint
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:E4E85B07-0B2B-414F-A4F8-EBE16F4AEC23@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220418
+DTEND;VALUE=DATE:20220419
+SUMMARY;LANGUAGE=fr-FR:Lundi de Pâques
+DESCRIPTION;LANGUAGE=fr-FR:Le lundi de Pâques est le lendemain du jour de 
+ Pâques. La fête de Pâques étant mobile\, sa date est variable. En 2021\, c
+ 'est le lundi 5 avril et\, en 2022\, ce sera le 18 avril.\n\nMis à jour: M
+ on\, 25 Oct 2021 11:30:43 +0000\n\nInformations complémentaires\nhttps://f
+ r.wikipedia.org/wiki/Lundi_de_P%C3%A2ques
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Lundi_de_P%C3%A2ques
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:68439F78-2172-4F26-A8E9-83905DAB78FC@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220502
+SUMMARY;LANGUAGE=fr-FR:Fête du travail
+DESCRIPTION;LANGUAGE=fr-FR:La fête du Travail est le nom de plusieurs fête
+ s qui furent instituées à partir du XVIIIe siècle pour célébrer les réalis
+ ations des travailleurs.\n\nMis à jour: Mon\, 25 Oct 2021 11:30:43 +0000\n
+ \nInformations complémentaires\nhttps://fr.wikipedia.org/wiki/F%C3%AAte_du
+ _Travail
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/F%C3%AAte_du_Travail
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:37CF1E4C-700F-4EEA-A5C2-6639C938F433@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220508
+DTEND;VALUE=DATE:20220509
+SUMMARY;LANGUAGE=fr-FR:✌️ Fête de la Victoire
+DESCRIPTION;LANGUAGE=fr-FR:Mis à jour: Mon\, 25 Oct 2021 11:30:43 +0000
+CLASS:PUBLIC
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:32E8B9B7-6DB5-4E5F-A055-C037DFB323BA@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220526
+DTEND;VALUE=DATE:20220527
+SUMMARY;LANGUAGE=fr-FR:Jour de l'Ascension
+DESCRIPTION;LANGUAGE=fr-FR:L’Ascension est une fête chrétienne célébrée le
+  quarantième jour à partir de Pâques. Elle marque la dernière rencontre de
+  Jésus avec ses disciples après sa résurrection et son élévation au ciel. 
+ Elle exprime un nouveau mode de présence du Christ\, qui n'est plus visibl
+ e dans le monde terrestre\, mais demeure présent dans les sacrements. Elle
+  annonce également la venue du Saint-Esprit dix jours plus tard et la form
+ ation de l'Église à l'occasion de la fête de la Pentecôte. Elle préfigure 
+ enfin pour les chrétiens la vie éternelle.\n\nMis à jour: Mon\, 25 Oct 202
+ 1 11:30:43 +0000\n\nInformations complémentaires\nhttps://fr.wikipedia.org
+ /wiki/Ascension_%28f%C3%AAte%29
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Ascension_%28f%C3%AAte%29
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:853FB943-7162-4496-A2C9-F7730C905435@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220606
+DTEND;VALUE=DATE:20220607
+SUMMARY;LANGUAGE=fr-FR:Lundi de Pentecôte
+DESCRIPTION;LANGUAGE=fr-FR:- Monday of the Holy Spirit\n- Pentecost Monday
+ \n\nLa Pentecôte est une fête chrétienne qui célèbre l'effusion du Saint-E
+ sprit le cinquantième jour à partir de Pâques sur un groupe de disciples d
+ e Jésus de Nazareth\, dont les Douze Apôtres. Cet épisode est relaté dans 
+ les Actes des Apôtres.\n\nMis à jour: Mon\, 25 Oct 2021 11:30:43 +0000\n\n
+ Informations complémentaires\nhttps://fr.wikipedia.org/wiki/Pentec%C3%B4te
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Pentec%C3%B4te
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:20A953F7-E110-4593-A0A3-EAEA1C3C4B50@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220714
+DTEND;VALUE=DATE:20220715
+SUMMARY;LANGUAGE=fr-FR:Fête Nationale
+DESCRIPTION;LANGUAGE=fr-FR:La fête nationale française\, également appelée
+  14 Juillet\, est la fête nationale de la République française. C'est un j
+ our férié en France.\n\nMis à jour: Mon\, 25 Oct 2021 11:30:43 +0000\n\nIn
+ formations complémentaires\nhttps://fr.wikipedia.org/wiki/F%C3%AAte_nation
+ ale_fran%C3%A7aise
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_fran%C3%A7aise
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:E9354B6D-F53F-4A2E-AAD9-0E59D8DFF2DC@webcal.guru
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20220815
+DTEND;VALUE=DATE:20220816
+SUMMARY;LANGUAGE=fr-FR:Assomption de Marie
+DESCRIPTION;LANGUAGE=fr-FR:L’Assomption de Marie\, qui est appelée Dormiti
+ on dans la tradition orientale\, est la croyance religieuse orthodoxe et c
+ atholique selon laquelle la Vierge Marie\, mère de Jésus\, n'est pas morte
+  comme tout un chacun mais est entrée directement dans la gloire de Dieu. 
+ L'expression « après avoir achevé le cours de sa vie terrestre » utilisée 
+ par le pape\, laisse ouverte la question de savoir si la Vierge Marie est 
+ décédée avant son Assomption\, ou si elle a été élevée avant la mort.\n\nM
+ is à jour: Mon\, 25 Oct 2021 11:30:43 +0000\n\nInformations complémentaire
+ s\nhttps://fr.wikipedia.org/wiki/Assomption_de_Marie
+CLASS:PUBLIC
+URL:https://fr.wikipedia.org/wiki/Assomption_de_Marie
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:663
+CREATED;VALUE=DATE-TIME:20211025T113043Z
+LAST-MODIFIED;VALUE=DATE-TIME:20211025T113043Z
+DTSTAMP;VALUE=DATE-TIME:20211025T113043Z
+END:VEVENT
+END:VCALENDAR
